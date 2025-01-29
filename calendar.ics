@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Dieses Event wurde zuletzt aktualisiert am 2025-01-29 10:32:32.015440
+DESCRIPTION:Dieses Event wurde zuletzt aktualisiert am 2025-01-29 10:39:40.089652
 DTEND:20250130T150000Z
 DTSTART:20250130T140000Z
-SUMMARY:Test-Event mit Updates
+SUMMARY:Test-Event mit Updates_v01
 UID:test-event-123@example.com
 END:VEVENT
 END:VCALENDAR
