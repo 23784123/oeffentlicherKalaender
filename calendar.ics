@@ -2,10 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Dieses Event wurde zuletzt aktualisiert am 2025-01-29 10:39:40.089652
+DESCRIPTION:Drittes Test-Event mit einer detaillierten Beschreibung. - Zuletzt aktualisiert am 2025-01-31 14:19:10.159229
+DTEND:20250205T110000Z
+LOCATION:Online (Zoom)
+DTSTART:20250205T090000Z
+SUMMARY:Test-Event 3 Neu
+UID:test-event-3@example.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dies ist ein weiteres Test-Event. - Zuletzt aktualisiert am 2025-01-31 14:19:10.158984
+DTEND:20250201T120000Z
+LOCATION:Meetingraum 1
+DTSTART:20250201T100000Z
+SUMMARY:Test-Event 2 Neu
+UID:test-event-2@example.com
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dieses Event ist ein Test mit einer Beschreibung. - Zuletzt aktualisiert am 2025-01-31 14:19:10.158350
 DTEND:20250130T150000Z
+LOCATION:Konferenzraum A
 DTSTART:20250130T140000Z
-SUMMARY:Test-Event mit Updates_v01
-UID:test-event-123@example.com
+SUMMARY:Test-Event 1 Neu
+UID:test-event-1@example.com
 END:VEVENT
 END:VCALENDAR
