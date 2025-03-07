@@ -2,93 +2,193 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Veranstaltung der Subkultur mit Musik und Kultur - Zuletzt aktualisiert am 2025-01-31 16:35:29.065942+01:00
-DTEND:20250309T013000Z
-LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
-DTSTART:20250308T193000Z
-SUMMARY:Subkultur Veranstaltung
-UID:subkultur-0308@example.com
-URL:http://www.subkultur-ffb.de/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Veranstaltung der Subkultur mit Musik und Kultur - Zuletzt aktualisiert am 2025-01-31 16:35:29.067185+01:00
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250405T183000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250412T173000Z
+END:VALARM
+DESCRIPTION:Subkultur-Event mit Rock. Mehr Infos zur Veranstaltung\, den Auftritten und Hörproben findest du auf unserer Webseite. Schau vorbei und entdecke\, was dich erwartet!
 DTEND:20250413T003000Z
 LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
 DTSTART:20250412T183000Z
-SUMMARY:Subkultur Veranstaltung
-UID:subkultur-0412@example.com
-URL:http://www.subkultur-ffb.de/
+SUMMARY:Subkultur #6 FRÜHJAHR  ‘25 | Rock | 12.04.2025
+UID:subkultur-6@example.com
+URL:https://www.subkultur-ffb.de/events
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Veranstaltung der Subkultur mit Musik und Kultur - Zuletzt aktualisiert am 2025-01-31 16:35:29.067605+01:00
-DTEND:20250504T003000Z
-LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
-DTSTART:20250503T183000Z
-SUMMARY:Subkultur Veranstaltung
-UID:subkultur-0503@example.com
-URL:http://www.subkultur-ffb.de/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Veranstaltung der Subkultur mit Musik und Kultur - Zuletzt aktualisiert am 2025-01-31 16:35:29.066607+01:00
-DTEND:20250406T003000Z
-LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
-DTSTART:20250405T183000Z
-SUMMARY:Subkultur Veranstaltung
-UID:subkultur-0405@example.com
-URL:http://www.subkultur-ffb.de/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Veranstaltung der Subkultur mit Musik und Kultur - Zuletzt aktualisiert am 2025-01-31 16:35:29.066488+01:00
-DTEND:20250323T013000Z
-LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
-DTSTART:20250322T193000Z
-SUMMARY:Subkultur Veranstaltung
-UID:subkultur-0322@example.com
-URL:http://www.subkultur-ffb.de/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Veranstaltung der Subkultur mit Musik und Kultur - Zuletzt aktualisiert am 2025-01-31 16:35:29.066552+01:00
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250322T193000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250329T183000Z
+END:VALARM
+DESCRIPTION:Subkultur-Event mit Ambiet Session. Mehr Infos zur Veranstaltung\, den Auftritten und Hörproben findest du auf unserer Webseite. Schau vorbei und entdecke\, was dich erwartet!
 DTEND:20250330T013000Z
 LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
 DTSTART:20250329T193000Z
-SUMMARY:Subkultur Veranstaltung
-UID:subkultur-0329@example.com
-URL:http://www.subkultur-ffb.de/
+SUMMARY:Subkultur #4 FRÜHJAHR  ‘25 | Ambiet Session | 29.03.2025
+UID:subkultur-4@example.com
+URL:https://www.subkultur-ffb.de/events
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Veranstaltung der Subkultur mit Musik und Kultur - Zuletzt aktualisiert am 2025-01-31 16:35:29.066316+01:00
-DTEND:20250316T013000Z
-LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
-DTSTART:20250315T193000Z
-SUMMARY:Subkultur Veranstaltung
-UID:subkultur-0315@example.com
-URL:http://www.subkultur-ffb.de/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Veranstaltung der Subkultur mit Musik und Kultur - Zuletzt aktualisiert am 2025-01-31 16:35:29.067358+01:00
-DTEND:20250427T003000Z
-LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
-DTSTART:20250426T183000Z
-SUMMARY:Subkultur Veranstaltung
-UID:subkultur-0426@example.com
-URL:http://www.subkultur-ffb.de/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Veranstaltung der Subkultur mit Musik und Kultur - Zuletzt aktualisiert am 2025-01-31 16:35:29.068046+01:00
-DTEND:20250511T003000Z
-LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
-DTSTART:20250510T183000Z
-SUMMARY:Subkultur Veranstaltung
-UID:subkultur-0510@example.com
-URL:http://www.subkultur-ffb.de/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Veranstaltung der Subkultur mit Musik und Kultur - Zuletzt aktualisiert am 2025-01-31 16:35:29.068514+01:00
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250510T183000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250517T173000Z
+END:VALARM
+DESCRIPTION:Subkultur-Event mit Jubiläum. Mehr Infos zur Veranstaltung\, den Auftritten und Hörproben findest du auf unserer Webseite. Schau vorbei und entdecke\, was dich erwartet!
 DTEND:20250518T003000Z
 LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
 DTSTART:20250517T183000Z
-SUMMARY:Subkultur Veranstaltung
-UID:subkultur-0517@example.com
-URL:http://www.subkultur-ffb.de/
+SUMMARY:Subkultur #10 FRÜHJAHR  ‘25 | Jubiläum | 17.05.2025
+UID:subkultur-10@example.com
+URL:https://www.subkultur-ffb.de/events
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250426T183000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250503T173000Z
+END:VALARM
+DESCRIPTION:Subkultur-Event mit Hip Hop. Mehr Infos zur Veranstaltung\, den Auftritten und Hörproben findest du auf unserer Webseite. Schau vorbei und entdecke\, was dich erwartet!
+DTEND:20250504T003000Z
+LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
+DTSTART:20250503T183000Z
+SUMMARY:Subkultur #8 FRÜHJAHR  ‘25 | Hip Hop | 03.05.2025
+UID:subkultur-8@example.com
+URL:https://www.subkultur-ffb.de/events
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250308T193000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250315T183000Z
+END:VALARM
+DESCRIPTION:Subkultur-Event mit Newcomer DJs. Mehr Infos zur Veranstaltung\, den Auftritten und Hörproben findest du auf unserer Webseite. Schau vorbei und entdecke\, was dich erwartet!
+DTEND:20250316T013000Z
+LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
+DTSTART:20250315T193000Z
+SUMMARY:Subkultur #2 FRÜHJAHR  ‘25 | Newcomer DJs | 15.03.2025
+UID:subkultur-2@example.com
+URL:https://www.subkultur-ffb.de/events
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250503T183000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250510T173000Z
+END:VALARM
+DESCRIPTION:Subkultur-Event mit Shoegaze+Punk. Mehr Infos zur Veranstaltung\, den Auftritten und Hörproben findest du auf unserer Webseite. Schau vorbei und entdecke\, was dich erwartet!
+DTEND:20250511T003000Z
+LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
+DTSTART:20250510T183000Z
+SUMMARY:Subkultur #9 FRÜHJAHR  ‘25 | Shoegaze+Punk | 10.05.2025
+UID:subkultur-9@example.com
+URL:https://www.subkultur-ffb.de/events
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250419T183000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250426T173000Z
+END:VALARM
+DESCRIPTION:Subkultur-Event mit Jazz/Blues/Soul. Mehr Infos zur Veranstaltung\, den Auftritten und Hörproben findest du auf unserer Webseite. Schau vorbei und entdecke\, was dich erwartet!
+DTEND:20250427T003000Z
+LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
+DTSTART:20250426T183000Z
+SUMMARY:Subkultur #7 FRÜHJAHR  ‘25 | Jazz/Blues/Soul | 26.04.2025
+UID:subkultur-7@example.com
+URL:https://www.subkultur-ffb.de/events
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250329T193000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250405T173000Z
+END:VALARM
+DESCRIPTION:Subkultur-Event mit Pop-Punk . Mehr Infos zur Veranstaltung\, den Auftritten und Hörproben findest du auf unserer Webseite. Schau vorbei und entdecke\, was dich erwartet!
+DTEND:20250406T003000Z
+LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
+DTSTART:20250405T183000Z
+SUMMARY:Subkultur #5 FRÜHJAHR  ‘25 | Pop-Punk  | 05.04.2025
+UID:subkultur-5@example.com
+URL:https://www.subkultur-ffb.de/events
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250315T193000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250322T183000Z
+END:VALARM
+DESCRIPTION:Subkultur-Event mit Metal. Mehr Infos zur Veranstaltung\, den Auftritten und Hörproben findest du auf unserer Webseite. Schau vorbei und entdecke\, was dich erwartet!
+DTEND:20250323T013000Z
+LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
+DTSTART:20250322T193000Z
+SUMMARY:Subkultur #3 FRÜHJAHR  ‘25 | Metal | 22.03.2025
+UID:subkultur-3@example.com
+URL:https://www.subkultur-ffb.de/events
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250301T193000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER;VALUE=DATE-TIME:20250308T183000Z
+END:VALARM
+DESCRIPTION:Subkultur-Event mit Sukumix. Mehr Infos zur Veranstaltung\, den Auftritten und Hörproben findest du auf unserer Webseite. Schau vorbei und entdecke\, was dich erwartet!
+DTEND:20250309T013000Z
+LOCATION:Auf d. Lände 7\, 82256 Fürstenfeldbruck\, Bayern\, Deutschland
+DTSTART:20250308T193000Z
+SUMMARY:Subkultur #1 FRÜHJAHR  ‘25 | Sukumix | 08.03.2025
+UID:subkultur-1@example.com
+URL:https://www.subkultur-ffb.de/events
 END:VEVENT
 END:VCALENDAR
